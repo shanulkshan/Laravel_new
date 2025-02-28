@@ -9,6 +9,7 @@
      integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
 </head>
 <body class="container">
+    <a href="{{route('student.create')}}" type="button" class="btn btn-primary mt-5">Create</a>
     <table class="table table-striped mt-5">
         <thead>
           <tr>
